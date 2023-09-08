@@ -3,7 +3,8 @@
 
 ### [Netflix Clone Live Link](https://anujmishra2005.github.io/Netflix-Clone/)
 
-It is a Working Netfilx Clone made up of Frontend Development (HTML , CSS , JavaScript)
+It is a Working clone of the landing page of Netflix using HTML, CSS and JavaScript.
+
 ## 📸 Screenshots
 ![image](https://github.com/Anujmishra2005/Netflix-Clone/blob/main/src/preview/preview%201.png)
 ![image](https://github.com/Anujmishra2005/Netflix-Clone/blob/main/src/preview/preview%202.png)
