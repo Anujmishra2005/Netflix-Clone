@@ -21,7 +21,7 @@ It is a Working Netfilx Clone made up of Frontend Development (HTML , CSS , Java
 
 - Take a look at the existing [Issues](https://github.com/Anujmishra2005/Netflix-Clone/issues) or [create a new issue](https://github.com/Anujmishra2005/Netflix-Clone/issues/new/choose)!
 - [Fork the Repo](https://github.com/Anujmishra2005/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
-- Create a **[Pull Request](https://github.com/Anujmishra2005/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Create a **[Pull Request](https://github.com/Anujmishra2005/Netflix-Clone/pulls)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
